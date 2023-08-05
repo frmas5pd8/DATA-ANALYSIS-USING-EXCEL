@@ -1,4 +1,4 @@
-# VRINDA-SHOPPING-CART-SALES-ANALYSIS-EXCEL
+# VRINDA-SHOPPING-CART-ANNUAL-REPORT-2022-EXCEL
 
 # Project Objective :
 Vrinda Shopping Cart proprietor has reached out to us to collaborate on building an Excel-based dashboard, tailored to monitor and analyze their online sales data nationwide. This dynamic dashboard will facilitate the visualization of sales trends, regional performance, and customer preferences. By leveraging Excel's powerful features, we can provide Vrinda Shopping Cart with a comprehensive tool that empowers them to make data-driven decisions, optimize their sales strategy, and achieve growth across India's vast online market.
