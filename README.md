@@ -32,6 +32,6 @@ Vrinda Shopping Cart proprietor has reached out to us to collaborate on building
 7) Highest selling cateogry etc
 
 # Report Image :
-* ![Vrinda Shopping Cart Data Analysis Report](https://github.com/frmas5pd8/DATA-ANALYSIS-USING-EXCEL/assets/98344555/2d19e192-71f4-4d40-95b0-1ff5c2de78be)
+![Vrinda Shopping Cart Data Analysis Report](https://github.com/frmas5pd8/DATA-ANALYSIS-USING-EXCEL/assets/98344555/2d19e192-71f4-4d40-95b0-1ff5c2de78be)
 
 
