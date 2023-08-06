@@ -16,7 +16,13 @@ Link : https://1drv.ms/x/s!Al77dFXDQRLughpFPnK6HkQSdg_8?e=Suj651
 * Table1: Vrinda Shopping Cart Data Analysis.xlsx index, Order ID, Cust ID, Gender, Age, Date, Status, Channel etc.
 
 # Insights :
-1) 
+1) Compare the sales and oders using single chart
+2) Which month got highest sales and oders
+3) Who purchased more-men or women in 2022
+4) List top 10 states contributing to the sales
+5) Realtion between age and gender based on number of oders
+6) Which channel is contributing to maximum sales
+7) Highest selling cateogry etc
 
 # Learning Outcomes:
 1) Created an interactive dashboard to track and analyze online sales data.
