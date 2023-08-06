@@ -15,6 +15,13 @@ Vrinda Shopping Cart proprietor has reached out to us to collaborate on building
 * The variables in the datasets are:
 * Table1: Vrinda Shopping Cart Data Analysis.xlsx index, Order ID, Cust ID, Gender, Age, Date, Status, Channel etc.
 
+# Learning Outcomes:
+1) Created an interactive dashboard to track and analyze online sales data.
+2) Used complex parameters to drill down in worksheets (Orders and Details) and customizations using filters and slicers.
+3) Created connections between tables, joined the tables, calculated to manipulate data, and enabled used-driven parameters for visualizations.
+4) Created new columns Age Group & Month using the DAX function for a clear image of the average group of people and Month Sales.
+5) Used different types of customized visualizations in the form of bar charts, donut charts, clustered bar charts, tiles, and slicers.
+
 # Insights :
 1) Compare the sales and oders using single chart
 2) Which month got highest sales and oders
@@ -24,10 +31,7 @@ Vrinda Shopping Cart proprietor has reached out to us to collaborate on building
 6) Which channel is contributing to maximum sales
 7) Highest selling cateogry etc
 
-# Learning Outcomes:
-1) Created an interactive dashboard to track and analyze online sales data.
-2) Used complex parameters to drill down in worksheets (Orders and Details) and customizations using filters and slicers.
-3) Created connections between tables, joined the tables, calculated to manipulate data, and enabled used-driven parameters for visualizations.
-4) Created new columns Age Group & Month using the DAX function for a clear image of the average group of people and Month Sales.
-5) Used different types of customized visualizations in the form of bar charts, donut charts, clustered bar charts, tiles, and slicers.
+# Report Image :
+* ![Vrinda Shopping Cart Data Analysis Report](https://github.com/frmas5pd8/DATA-ANALYSIS-USING-EXCEL/assets/98344555/2d19e192-71f4-4d40-95b0-1ff5c2de78be)
+
 
